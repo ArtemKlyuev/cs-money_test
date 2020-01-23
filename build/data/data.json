@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Support_1",
+            "avatar": "img_1.jpg",
+            "status": "online",
+            "average_rating": "5.0",
+            "tickets_count": 66,
+            "average_response_time": 31
+        },
+        {
+            "id": "2",
+            "name": "Support_2.",
+            "avatar": "img_2.jpg",
+            "status": "online",
+            "average_rating": "4.5",
+            "tickets_count": 771,
+            "average_response_time": 27.4
+        },
+        {
+            "id": "3",
+            "name": "Support_3",
+            "avatar": "img_3.png",
+            "status": "offline",
+            "average_rating": "4.6",
+            "tickets_count": 605,
+            "average_response_time": 23.4
+        },
+        {
+            "id": "4",
+            "name": "Support_4",
+            "avatar": "img_4.png",
+            "status": "offline",
+            "average_rating": "4.6",
+            "tickets_count": 1614,
+            "average_response_time": 23.6
+        },
+        {
+            "id": "5",
+            "name": "Support_5",
+            "avatar": "img_5.png",
+            "status": "offline",
+            "average_rating": "4.6",
+            "tickets_count": 998,
+            "average_response_time": 33.8
+        },
+        {
+            "id": "6",
+            "name": "Support_6",
+            "avatar": "img_6.jpg",
+            "status": "online",
+            "average_rating": "4.7",
+            "tickets_count": 1057,
+            "average_response_time": 60.3
+        },
+        {
+            "id": "7",
+            "name": "Support_7",
+            "avatar": "img_7.jpg",
+            "status": "online",
+            "average_rating": "4.8",
+            "tickets_count": 1061,
+            "average_response_time": 24.8
+        },
+        {
+            "id": "8",
+            "name": "Support_8",
+            "avatar": "img_8.jpg",
+            "status": "offline",
+            "average_rating": "4.4",
+            "tickets_count": 486,
+            "average_response_time": 74.4
+        },
+        {
+            "id": "9",
+            "name": "Support_9",
+            "avatar": "img_9.jpg",
+            "status": "online",
+            "average_rating": "4.4",
+            "tickets_count": 1476,
+            "average_response_time": 29.6
+        },
+        {
+            "id": "10",
+            "name": "Support_10",
+            "avatar": "img_10.jpg",
+            "status": "offline",
+            "average_rating": "4.6",
+            "tickets_count": 1187,
+            "average_response_time": 22.7
+        },
+        {
+            "id": "11",
+            "name": "Support_11",
+            "avatar": "img_11.png",
+            "status": "offline",
+            "average_rating": "4.3",
+            "tickets_count": 387,
+            "average_response_time": 32.1
+        },
+        {
+            "id": "12",
+            "name": "Support_12",
+            "avatar": "img_12.jpg",
+            "status": "offline",
+            "average_rating": "4.6",
+            "tickets_count": 523,
+            "average_response_time": 24.5
+        }
+    ]
+}
