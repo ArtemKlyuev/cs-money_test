@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+
+    overflow-x: hidden;
+
+    justify-content: space-around;
+
+    max-width: 1600px;
+
+    margin: 0 auto;
+
+    padding: 0 20px;
+}
+
+.table,
+.diagrams {
+    width: 50%;
+}
+
+@media (max-width: 1045px) {
+    .container {
+        flex-direction: column;
+    }
+    .table {
+        margin-bottom: 40px;
+    }
+    .table,
+    .diagrams {
+        width: 100%;
+    }
+}

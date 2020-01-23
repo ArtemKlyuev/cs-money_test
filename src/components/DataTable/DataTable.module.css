@@ -1,0 +1,27 @@
+.table {
+    width: 95%;
+    margin: auto;
+
+    border-spacing: 10px;
+
+    border-collapse: separate;
+}
+
+.tableHead {
+    cursor: pointer;
+}
+.body {
+    text-align: center;
+}
+
+@media (min-width: 1050px) {
+    .table {
+        position: fixed;
+        top: 50%;
+        left: 10px;
+
+        width: 50%;
+
+        transform: translateY(-50%);
+    }
+}
